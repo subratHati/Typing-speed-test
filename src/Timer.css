@@ -1,0 +1,11 @@
+.timer{
+    width: 50%;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.timer h4{
+    font-size: 2rem;
+    color: #4E4E4E;
+}

@@ -1,0 +1,22 @@
+.successLogo{
+    border: 5px solid #24A984;
+    border-radius: 50%;
+    height: 3rem;
+    width: 3rem;
+    margin-left: 40%;
+}
+.successBox{
+    text-align: center;
+}
+
+.tickMark{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 20%;
+    color: #24A984;   
+}
+
+.successMsg{
+    font-size: 1.5rem;
+    color: #24A984;
+}
